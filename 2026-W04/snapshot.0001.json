@@ -1,0 +1,27 @@
+{
+  "protocol": "absurd-work-v0.3.5",
+  "timestamp": "2026-01-25T00:00:07.033Z",
+  "counter": "610",
+  "segments": {
+    "absurd-work.log.0001": {
+      "hash": "sha256:ac48dbe8a2ededb22acbc9f74291846faea6902d3634353f52494a2fac63e92d",
+      "lines": 610,
+      "firstClick": 1,
+      "lastClick": 610,
+      "timeRange": {
+        "start": "2026-01-16T14:53:46.973Z",
+        "end": "2026-01-23T15:39:40.696Z"
+      }
+    }
+  },
+  "verification": {
+    "totalLines": 610,
+    "merkleRoot": "sha256:3154ba63e66357a56ec508da62cb31d5c6f4139faa3416a696da7666d2ed492c"
+  },
+  "previousSnapshot": null,
+  "metadata": {
+    "maintainer": "Norun",
+    "repository": "https://github.com/norun/absurd-work",
+    "website": "https://absurd-work.norun.art"
+  }
+}
