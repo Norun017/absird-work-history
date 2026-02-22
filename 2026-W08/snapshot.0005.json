@@ -1,0 +1,71 @@
+{
+  "protocol": "absurd-work-v0.5",
+  "timestamp": "2026-02-22T00:00:07.322Z",
+  "counter": "20782",
+  "segments": {
+    "absurd-work.log.0001": {
+      "hash": "sha256:ac48dbe8a2ededb22acbc9f74291846faea6902d3634353f52494a2fac63e92d",
+      "lines": 610,
+      "firstClick": 1,
+      "lastClick": 610,
+      "timeRange": {
+        "start": "2026-01-16T14:53:46.973Z",
+        "end": "2026-01-23T15:39:40.696Z"
+      }
+    },
+    "absurd-work.log.0002": {
+      "hash": "sha256:5659e2f865cdac050d6f78cf811538cca5bc5a41185df18013423f75d6b3c632",
+      "lines": 1416,
+      "firstClick": 611,
+      "lastClick": 2026,
+      "timeRange": {
+        "start": "2026-01-25T01:14:45.482Z",
+        "end": "2026-01-31T03:17:51.903Z"
+      }
+    },
+    "absurd-work.log.0003": {
+      "hash": "sha256:2ffe3ded4dfd8f7c2f2ef72f30b0c68c412e99e0e72c53717739c2fccc00b189",
+      "lines": 1454,
+      "firstClick": 2027,
+      "lastClick": 3480,
+      "timeRange": {
+        "start": "2026-02-01T02:21:37.667Z",
+        "end": "2026-02-07T04:23:23.817Z"
+      }
+    },
+    "absurd-work.log.0004": {
+      "hash": "sha256:14d9899ca2b86720061770f2941d607cb6101e3e9e11cf877ea0c3c0f2fcaa89",
+      "lines": 4070,
+      "firstClick": 3481,
+      "lastClick": 7550,
+      "timeRange": {
+        "start": "2026-02-08T06:22:40.454Z",
+        "end": "2026-02-14T08:53:23.387Z"
+      }
+    },
+    "absurd-work.log.0005": {
+      "hash": "sha256:8ee052fe59dcaaf74884c08f345877603caa7b5c84aec7fa47ac4c447fdd2aa5",
+      "lines": 13232,
+      "firstClick": 7551,
+      "lastClick": 20782,
+      "timeRange": {
+        "start": "2026-02-15T03:29:49.201Z",
+        "end": "2026-02-21T23:32:55.838Z"
+      }
+    }
+  },
+  "verification": {
+    "totalLines": 20782,
+    "merkleRoot": "sha256:e0ebf924e0150cc240fb494f7379e61ad167c5e8c8f236fdaa06c3dd7879f59e"
+  },
+  "previousSnapshot": {
+    "file": "snapshot.0004.json",
+    "hash": "sha256:3422c5953fa2035de7a88ebb4e87046e79c1135116c36fc10a9615c44f3b7c21",
+    "counter": 7550
+  },
+  "metadata": {
+    "maintainer": "Norun",
+    "repository": "https://github.com/norun/absurd-work",
+    "website": "https://absurd-work.norun.art"
+  }
+}
