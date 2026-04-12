@@ -1,0 +1,141 @@
+{
+  "protocol": "absurd-work-v0.5",
+  "timestamp": "2026-04-12T00:00:10.204Z",
+  "counter": "1758129",
+  "segments": {
+    "absurd-work.log.0001": {
+      "hash": "sha256:ac48dbe8a2ededb22acbc9f74291846faea6902d3634353f52494a2fac63e92d",
+      "lines": 610,
+      "firstClick": 1,
+      "lastClick": 610,
+      "timeRange": {
+        "start": "2026-01-16T14:53:46.973Z",
+        "end": "2026-01-23T15:39:40.696Z"
+      }
+    },
+    "absurd-work.log.0002": {
+      "hash": "sha256:5659e2f865cdac050d6f78cf811538cca5bc5a41185df18013423f75d6b3c632",
+      "lines": 1416,
+      "firstClick": 611,
+      "lastClick": 2026,
+      "timeRange": {
+        "start": "2026-01-25T01:14:45.482Z",
+        "end": "2026-01-31T03:17:51.903Z"
+      }
+    },
+    "absurd-work.log.0003": {
+      "hash": "sha256:2ffe3ded4dfd8f7c2f2ef72f30b0c68c412e99e0e72c53717739c2fccc00b189",
+      "lines": 1454,
+      "firstClick": 2027,
+      "lastClick": 3480,
+      "timeRange": {
+        "start": "2026-02-01T02:21:37.667Z",
+        "end": "2026-02-07T04:23:23.817Z"
+      }
+    },
+    "absurd-work.log.0004": {
+      "hash": "sha256:14d9899ca2b86720061770f2941d607cb6101e3e9e11cf877ea0c3c0f2fcaa89",
+      "lines": 4070,
+      "firstClick": 3481,
+      "lastClick": 7550,
+      "timeRange": {
+        "start": "2026-02-08T06:22:40.454Z",
+        "end": "2026-02-14T08:53:23.387Z"
+      }
+    },
+    "absurd-work.log.0005": {
+      "hash": "sha256:8ee052fe59dcaaf74884c08f345877603caa7b5c84aec7fa47ac4c447fdd2aa5",
+      "lines": 13232,
+      "firstClick": 7551,
+      "lastClick": 20782,
+      "timeRange": {
+        "start": "2026-02-15T03:29:49.201Z",
+        "end": "2026-02-21T23:32:55.838Z"
+      }
+    },
+    "absurd-work.log.0006": {
+      "hash": "sha256:1cd3fadbd2216dedd4a3480914af16750a0fe271787a72b3107d68aab326e99c",
+      "lines": 92774,
+      "firstClick": 20783,
+      "lastClick": 113556,
+      "timeRange": {
+        "start": "2026-02-22T01:28:17.545Z",
+        "end": "2026-02-28T04:07:34.759Z"
+      }
+    },
+    "absurd-work.log.0007": {
+      "hash": "sha256:00e979ebfb71acd33934c65ced8bb3400d68b8cdf0cea5c25a21cf7bb405916c",
+      "lines": 294061,
+      "firstClick": 113557,
+      "lastClick": 407617,
+      "timeRange": {
+        "start": "2026-03-01T02:15:58.795Z",
+        "end": "2026-03-07T20:27:06.849Z"
+      }
+    },
+    "absurd-work.log.0008": {
+      "hash": "sha256:bf68918aa338b80f60106d7e771e3bf7cb49590b3c6536cc05d2614f05011050",
+      "lines": 667332,
+      "firstClick": 407618,
+      "lastClick": 1074949,
+      "timeRange": {
+        "start": "2026-03-08T06:05:35.562Z",
+        "end": "2026-03-14T21:55:32.116Z"
+      }
+    },
+    "absurd-work.log.0009": {
+      "hash": "sha256:b1bdd5bdbdaa83f76e563b98b3f0a8f1ac7e2669ae7d268777397cd8c4bb2c44",
+      "lines": 130056,
+      "firstClick": 1074950,
+      "lastClick": 1205005,
+      "timeRange": {
+        "start": "2026-03-15T02:29:06.864Z",
+        "end": "2026-03-21T14:00:00.915Z"
+      }
+    },
+    "absurd-work.log.0010": {
+      "hash": "sha256:5bbe56d50434c6687f42e6fb0126947aad4c2281b4d7cae48bb5d5bdab87dbd8",
+      "lines": 17707,
+      "firstClick": 1205006,
+      "lastClick": 1222712,
+      "timeRange": {
+        "start": "2026-03-22T00:48:15.435Z",
+        "end": "2026-03-28T23:59:33.065Z"
+      }
+    },
+    "absurd-work.log.0011": {
+      "hash": "sha256:43c238dcbd0efe68db92b6e3831e36ef13752ed419cfafb90a0cca97c964fdb0",
+      "lines": 337353,
+      "firstClick": 1222713,
+      "lastClick": 1560065,
+      "timeRange": {
+        "start": "2026-03-29T00:07:55.824Z",
+        "end": "2026-04-04T19:15:09.993Z"
+      }
+    },
+    "absurd-work.log.0012": {
+      "hash": "sha256:93ababae322d495df4730f20d3bae488f43390fb910794107b26b8b46911edc1",
+      "lines": 198064,
+      "firstClick": 1560066,
+      "lastClick": 1758129,
+      "timeRange": {
+        "start": "2026-04-05T00:31:17.634Z",
+        "end": "2026-04-11T23:42:32.094Z"
+      }
+    }
+  },
+  "verification": {
+    "totalLines": 1758129,
+    "merkleRoot": "sha256:675472e8d6b3c7dafa9d445ec1db3215c4ce4a82244dcf2780309ccd35b24241"
+  },
+  "previousSnapshot": {
+    "file": "snapshot.0011.json",
+    "hash": "sha256:c53d52f7524189219e037db74312c343f2cb61303428f840fd14bc92f5d144b1",
+    "counter": 1560065
+  },
+  "metadata": {
+    "maintainer": "Norun",
+    "repository": "https://github.com/norun/absurd-work",
+    "website": "https://absurd-work.norun.art"
+  }
+}
